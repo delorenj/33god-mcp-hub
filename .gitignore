@@ -1,0 +1,13 @@
+.venv/
+**/__pycache__/
+*.pyc
+*.egg-info/
+.env
+.env.local
+.env.*.local
+.pytest_cache/
+.ruff_cache/
+dist/
+build/
+mcp-hub.egg-info/
+__pycache__/
